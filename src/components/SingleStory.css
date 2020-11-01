@@ -1,0 +1,14 @@
+.singleStory {
+  margin-left: 20px;
+}
+.story__image {
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  border: 4px solid #c471ed;
+}
+
+.username {
+  font-size: 15px;
+  text-align: center;
+}

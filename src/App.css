@@ -1,6 +1,13 @@
 .app {
   background-color: #fafafa;
-  height: 100vh;
   margin-top: 10px;
   padding: 20px;
+}
+
+.app__body {
+  width: 70vw;
+  background-color: #fafafa;
+  height: 100vh;
+  margin: auto;
+  /* display: flex; */
 }

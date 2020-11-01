@@ -1,0 +1,9 @@
+.story {
+  margin-top: 30px;
+  border: 1px solid lightgray;
+  padding: 20px;
+}
+
+.story__user {
+  display: flex;
+}
